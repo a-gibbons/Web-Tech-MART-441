@@ -3,4 +3,4 @@
 Homework repo for Web Tech (MART441) course.
 
 Base URL for site:
-https://github.com/a-gibbons/Web-Tech-MART-441/
+https://ashleygibbons.github.io/Web-Tech-MART-441/
