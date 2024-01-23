@@ -1,0 +1,1 @@
+I had to do a lot of refreshing up for this assignment. I also always find it diffiicult to talk about myself, so that section is small.
